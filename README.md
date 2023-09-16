@@ -1,6 +1,5 @@
 <include a CircleCI status badge, here>
-# Example:
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+# Example: [![CircleCI](https://circleci.com/github/AlbusDumble-dore/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/github/AlbusDumble-dore/Operationalize-a-Machine-Learning-Microservice-API)
 
 ## Project Overview
 
