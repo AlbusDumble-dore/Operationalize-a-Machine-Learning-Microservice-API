@@ -12,3 +12,12 @@ voclabs:~/environment $ minikube delete
 🔥  Deleting container "minikube" ...
 🔥  Removing /home/ec2-user/.minikube/machines/minikube ...
 💀  Removed all traces of the "minikube" cluster.
+
+Updating output for ./make_prediction.sh based on reviewer's feedback :
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
